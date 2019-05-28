@@ -1,0 +1,20 @@
+Package: resri
+Type: Package
+Title: Tools to Streamline Geospatial Analysis in R Using ERSI
+Version: 0.1.0
+Author: c(
+          person("Michael", "Dougherty", 
+                 email = "Michael.P.Dougherty@usace.army.mil", 
+                 role = c("aut", "cre"))
+          )
+Maintainer: Michael Dougherty <Michael.P.Dougherty@usace.army.mil>
+Description: Geospatial analysis in R uses different terms than those commonly
+    used by ESRI tools. This package seek to provide a more one-to-one mapping 
+    of GIS operations in ESRI within R. 
+License: CC0
+Depends: R (>= 2.10)
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    arcgisbinding
+RoxygenNote: 6.1.1
