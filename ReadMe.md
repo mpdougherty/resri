@@ -1,7 +1,3 @@
----
-output: github_document
-output: html_document
----
 <!-- rmarkdown v1 -->
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
