@@ -24,8 +24,7 @@ Funding for development and maintenance of `resri` was provided by the US Army C
 * [Michael Dougherty](mailto:Michael.P.Dougherty@usace.army.mil), Geographer, US Army Corps of Engineers, Rock Island District
 
 ## Install
-To install the `resri` package, install from GitHub using the 
-`devtools` package:
+To install the `resri` package, install from GitHub using the `devtools` package:
 
 ```r
 library(devtools)
